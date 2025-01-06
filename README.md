@@ -1,6 +1,6 @@
-<p align="center>
-<h1>💻 computer student interested in databases, automations, and ai </h1>
-</p>
+<div align="center>
+💻 computer student interested in databases, automations, and ai
+</div>
   
 <p align="center">
   <img src="https://media.tenor.com/F8LT-PIEWScAAAAM/nerd-nerd-emoji.gif" alt="nerd">
