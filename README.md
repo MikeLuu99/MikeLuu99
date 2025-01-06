@@ -1,4 +1,6 @@
 💻 computer student interested in databases, automations, and ai
+
+![](https://media.tenor.com/F8LT-PIEWScAAAAM/nerd-nerd-emoji.gif)
 <!--
 **MikeLuu99/MikeLuu99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
