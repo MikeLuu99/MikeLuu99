@@ -1,7 +1,7 @@
-<div align="center>
+<div align="center">
 💻 computer student interested in databases, automations, and ai
 </div>
-  
+
 <p align="center">
   <img src="https://media.tenor.com/F8LT-PIEWScAAAAM/nerd-nerd-emoji.gif" alt="nerd">
 </p>
